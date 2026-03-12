@@ -7,7 +7,7 @@ Frontend Web Developer, Web User Interface Developer
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/oleksandra-kurylo-237a62362/)
 * ✉️  You can contact me at [aleksandrakurilo61@gmail.com](mailto:aleksandrakurilo61@gmail.com)
-* 🧠  I'm currently improving my skills in working with React and Typescript, and I continue to engage in high-quality web interface development using HTML4, CSS3, SCSS(Sass), JS(ES6+).
+* 🧠  I'm currently improving my skills in working with React and Typescript, and I continue to engage in high-quality web interface development using HTML5, CSS3, SCSS(Sass), JS(ES6+).
 * 👥  I'm looking to collaborate on interesting projects
 
 <p align="left">
